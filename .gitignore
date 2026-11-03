@@ -1,0 +1,12 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 编辑器与桌面环境配置
+.directory
+.vscode/
+.idea/
+*.swp
+*~
